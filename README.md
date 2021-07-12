@@ -10,12 +10,6 @@
 
 https://vite-vue3-starter.xpoet.cn/
 
-## 前端技术交流群
-
-因群成员大于 200 人，需要您关注公众号《前端鼓励师》，添加作者微信，再由作者拉你进群~
-
-<img src="https://cdn.jsdelivr.net/gh/XPoet/image-hosting@master/FE-Cheerleaders/FEC-Card.76dbi8n1bkk0.png" width="80%" />
-
 
 ## 搭建教程
 
@@ -60,7 +54,4 @@ npm run dev
 npm run build
 ```
 
-## 许可
-
-MIT Copyright © 2021 XPoet
 

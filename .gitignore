@@ -13,6 +13,7 @@ yarn.lock
 package-lock.json
 
 # IDEs and editors
+备份.txt
 /.idea
 .project
 .classpath
